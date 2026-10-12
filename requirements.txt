@@ -9,3 +9,4 @@ google-genai
 email-validator
 aiofiles
 python-dotenv
+psycopg[binary]
